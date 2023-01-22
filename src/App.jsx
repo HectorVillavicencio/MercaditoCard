@@ -1,8 +1,11 @@
 import './App.css';
+import ProductContainer from './components/ProductContainer';
 
 
 const App = () => {
-    return(<h1 className="titulo">Probando el App </h1>)
+    return(
+        <ProductContainer />
+    )
 }
 
 export default App;
