@@ -1,0 +1,37 @@
+.product{
+    background-color: var(--card-background);
+    width: 220px;
+    padding: 20px 16px;
+    border-radius: 12px;
+}
+
+.product__img{
+    border-radius: 12px;
+    display: block;
+    margin: auto;
+}
+
+.product__name{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 14px;
+    color: var(--text);
+}
+
+.product__details{
+    border: 1px solid red;
+    display: flex;
+    margin-top: 16px;
+    align-items: center;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--text);
+}
+
+.product__old{
+    text-decoration: line-through;
+}
+
+.product__price{
+    font-weight: bold;
+}
