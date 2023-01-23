@@ -1,10 +1,13 @@
 import './App.css';
 import ProductContainer from './components/ProductContainer';
+import { Product } from './components/Product';
 
 
 const App = () => {
     return(
-        <ProductContainer />
+        <ProductContainer>
+            <Product />
+        </ProductContainer> 
     )
 }
 
