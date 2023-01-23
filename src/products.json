@@ -7,42 +7,42 @@
     },
 
     {
-        "name": "Camisa",
+        "name": "Pantalon",
         "price": 100,
         "discount": 30,
         "url": "https://picsum.photos/180"
     },
 
     {
-        "name": "Camisa",
+        "name": "Teclado",
+        "price": 100,
+        "discount": 40,
+        "url": "https://picsum.photos/180"
+    },
+
+    {
+        "name": "Ojotas",
+        "price": 100,
+        "discount": 50,
+        "url": "https://picsum.photos/180"
+    },
+
+    {
+        "name": "Zapatilla",
+        "price": 100,
+        "discount": 40,
+        "url": "https://picsum.photos/180"
+    },
+
+    {
+        "name": "Boxer",
         "price": 100,
         "discount": 30,
         "url": "https://picsum.photos/180"
     },
 
     {
-        "name": "Camisa",
-        "price": 100,
-        "discount": 30,
-        "url": "https://picsum.photos/180"
-    },
-
-    {
-        "name": "Camisa",
-        "price": 100,
-        "discount": 30,
-        "url": "https://picsum.photos/180"
-    },
-
-    {
-        "name": "Camisa",
-        "price": 100,
-        "discount": 30,
-        "url": "https://picsum.photos/180"
-    },
-
-    {
-        "name": "Camisa",
+        "name": "Medias",
         "price": 100,
         "discount": 30,
         "url": "https://picsum.photos/180"
