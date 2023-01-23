@@ -1,14 +1,13 @@
 import './Product.css'
 import { AddCardBtn } from './AddCardBtn'
 import { Discount } from './Discount';
-import { FaHeart } from 'react-icons/fa';
-
+import { Heart } from './Heart';
 
 const Product = (props) => {
   return (
     <div className='product'>
       <Discount discount = {props.discount} />
-      <FaHeart/>
+      <Heart/>
         <img className='product__img' src='https://picsum.photos/180' alt='product' />
         <h2 className='product__name'>{props.name}</h2>
         <div className='product__details'>
